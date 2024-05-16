@@ -1,0 +1,1 @@
+This code is developed for IoT and sending sensor data through GSM, This code also provides sensors connectivity through radio frequency for local area sensor communication. 
